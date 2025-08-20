@@ -7,8 +7,10 @@
 
 </div>
 
+---
 
-Evalsys is a living, open-source community to track and advance model agentic capabilities. We’ll be releasing benchmarks, datasets, toolchains, models to push the field forward.
-Initiated by LobeHub, we would love to collaborate with research labs, MCP servers, independent contributors, and more.
 
-Join us, contribute, or reach out！
+[EVAL SYS](https://github.com/eval-sys) is a living, open-source community to track and advance model agentic capabilities. We’ll be releasing benchmarks, datasets, toolchains, models to push the field forward.
+Initiated by [LobeHub](https://github.com/lobehub), we would love to collaborate with research labs, MCP servers, independent contributors, and more.
+
+**Join us, contribute, or reach out！**
