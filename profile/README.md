@@ -1,12 +1,9 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/bf929ed6-2b32-4e60-82fd-5a9fd8049393">
+  <img height="90" src="https://github.com/user-attachments/assets/a4de7cb0-6564-4ffe-b555-ca49f8a45c2a">
+</picture>
 
-**Here are some ideas to get you started:**
+</div>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
